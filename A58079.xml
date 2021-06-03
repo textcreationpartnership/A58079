@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of the new fashioned goldsmiths or bankers their rise, growth, state, and decay, discovered in a merchant's letter to a country gent., who desired to bind his son apprentice to a goldsmith.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58079</idno><idno type="EEBO-CITATION">11893752</idno>
+  <idno type="VID">50513</idno>
+  <idno type="EEBO-PROQUEST">2240923176</idno>
+  
+            <idno type="STC">Wing R28</idno>
+            <idno type="STC">ESTC R6378</idno>
+            <idno type="OCLC">11893752</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 507:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of the new fashioned goldsmiths or bankers their rise, growth, state, and decay, discovered in a merchant's letter to a country gent., who desired to bind his son apprentice to a goldsmith.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Goldsmiths --  England.</term>
+               <term type="topical_term">Bankers --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50513:1"/>
+            <pb facs="tcp:50513:1"/>
+            <p>THE Mystery of the New Fashioned GOLDSMITHS OR BANKERS.</p>
+            <p>THEIR Rise, Growth, State, and Decay, Discovered in a Merchant's Letter To a Country Gent.</p>
+            <p>Who desired to bind his Son Apprentice to a GOLDSMITH.</p>
+            <p>Printed in Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50513:2"/>
+            <pb facs="tcp:50513:2"/>
+            <head>The Mystery of the New Fashioned GOLDSMITHS, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce you are pleased to demand my advice in the disposal of your Son to the <hi>Goldsmiths</hi> Trade, and my opinion of the Trade it self; I must trouble you more than I was willing to set down what I have observed of the <hi>Goldsmiths</hi> since I have Traded, and the steps of their Rise and Progress, and leave the judgment of the whole to your Self; tis but fit that a Son should owe the good choice of his imployment and way to his fortunes to the prudence and love of his Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <p>If I could now discourse you, I ought to be satisfied whether you have thoughts to put your Son to a <hi>Goldsmith</hi> of the Old or New Fa<g ref="char:EOLhyphen"/>shion, those of that profession having of late years wholly changed their way of Trading. In my time their whole imployment was to make and sell Plate, to buy forreign Coyns and Gold and Silver imported to melt and cull them, and cause some to be coyned at the <hi>Mint,</hi> and with the rest to furnish the <hi>Refiners, Plate-makers,</hi> and <hi>Merchants,</hi> as they found the price of gold and silver to vary, and as the Merchants had oc<g ref="char:EOLhyphen"/>casion for Forreign Coyns.</p>
+            <p>But about Thirty years since, the Civil Wars giving opportunity to Apprentices to leave their Masters at will, and the old way having been for Merchants to trust their Cash in one of their Servants custody, ma<g ref="char:EOLhyphen"/>ny such Cashiers left their Masters in the lurch and went to the Army, and Merchants knew not how to confide in their Apprentices; then did some Merchants begin to put their Cash into <hi>Goldsmiths</hi> hands to receive and pay for them, (thinking it more secure) and the trade of Plate be<g ref="char:EOLhyphen"/>ing then but little worth, most of the Nobility and Gentry, and others melting down their old Plate rather then buying new, and few daring to use or own Plate, the <hi>Goldsmiths</hi> sought to be the <hi>Merchants</hi> Cash<g ref="char:EOLhyphen"/>keepers to receive and pay for nothing, few observing or conjecturing their profit they had for their pains.</p>
+            <pb n="4" facs="tcp:50513:3"/>
+            <p>It happened about that time that the then Parliament had coyned out of Plate, and otherwise seven Millions in Half-Crowns, and no Mills being then used in the <hi>Mint,</hi> the Money was of a very unequal weight, sometimes two pence or three pence in an ounce difference, &amp; the <hi>French</hi> and others then changing the value of their Coins often, which made silver and gold of much greater value abroad then at our <hi>English Mint:</hi> The <hi>Goldsmiths</hi> found a new Mischeivous trade to send all the money trusted in their hands into their Cocklosis, where they had Scales and various Weights adapted for their pourpose, and servants constantly weighed every half-crown (at least) and sorted them to melt for Two pence or three pence, or sometimes less gain by the ounce, and some<g ref="char:EOLhyphen"/>times their advantage being greater by the accidents of the rise or fall of the exchange, those heaviest Coins were sent way in specie, several <hi>French</hi> men and other Merchants making it their whole and only bu<g ref="char:EOLhyphen"/>siness weekly to transport the gold and silver so culled, either melted down or in specie; and from hence the <hi>Goldsmiths</hi> set up another new Trade of buying the old English gold coin at a rate much above its Law<g ref="char:EOLhyphen"/>ful coyned value, buying and selling it at five, seven, eight and ten pounds in the hundred more then it was coyned for, still sending it away so fast; or supplying those with it whose business was to Transport it, that by a modest computation eight parts of ten of the coyn'd Gold was suddenly consumed, and two shillings a piece was commonly given for gold, when a penny a piece was often given before to exchange gold in<g ref="char:EOLhyphen"/>to silver; the Seven Millions also of silver new Coyned, was apparantly reduced to less then one Million, and the people so abused in their mo<g ref="char:EOLhyphen"/>ney, that there was little Coin passed in trade but overworn, wa<g ref="char:EOLhyphen"/>shed, and clipt, to the great vexation and loss of the Traders.</p>
+            <p>These unlawful practices and profits of the <hi>Goldsmiths,</hi> made them greedy to ingross all the Cash they could, and to combine with all mens servants who continued to keep any Cash, to bring their moneys to them to be culled, and to remain with them at four pence the day inter<g ref="char:EOLhyphen"/>est <hi>per centum</hi> without the Masters privity: And having thus got Money into their hands, they presumed upon some to come as fast as others was paid away; and upon that confidence of a running Cash (as they call it) they begun to accommodate men with moneys for Weeks and Moneths upon extraordinary gratuities, and supply all necessitous Mer<g ref="char:EOLhyphen"/>chants that over traded their Stock, with present Money for their Bills of Exchange, discounting somtimes double, perhaps treble interest for the time as they found the Merchant more or less pinched.</p>
+            <pb n="5" facs="tcp:50513:3"/>
+            <p>Profit arising by this Trade, some of them who la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the highest Cre<g ref="char:EOLhyphen"/>dit, undertook to receive Gentlemens Rents as they were returned to Town, and indeed any Man's money, and to allow them some intrest for it though it lay for a month only, or less, the Owners calling for it by a hundred or fifty pounds at a time as their occasions and experces wanted it; this new practice giving hopes to every body to make Pro<g ref="char:EOLhyphen"/>fit of their money until the hour they spent it, and the conveniency as they thought, to command their money when they pleased, which they could not do when lent at intrest upon personal or reall Security; These hopes I say, drew a great Cash into these new <hi>Goldsmiths</hi> hands, and some of them stuck to their old Trade, but every of them that had friends and credit, aspired to this new Mystery to become <hi>Bankers</hi> or <hi>Casheers,</hi> and when <hi>Cromwell</hi> usurped the Government, the greatest of them began do deal with him to supply his wants of Money upon great Advantages especially after they had bought those Dollers where<g ref="char:EOLhyphen"/>of he robb'd the <hi>Spaniards</hi> to about the value of 300000 l.</p>
+            <p>After the King's return he wanting money, some of these Bankers undertook to lend him not their own but other mens money, taking barefaced of Him ten pound for the hundred, and by private contracts many Bills, Orders, Tallies, and Debts of the King's, above twen<g ref="char:EOLhyphen"/>ty, and somtimes thirty in the hundred, to the great dishonor of the Government.</p>
+            <p>This Prodigious unlawful Gain induced all of them that could be ere<g ref="char:EOLhyphen"/>dited with moneys at intrest to become lenders to the King to anticipate all the Revenue, to take every Grant of the <hi>Parliament</hi> in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o pawn as soon as it was given, I had almost said, before the <hi>Act</hi> was passed for it, and to outvie each other in buying and taking to pawn, Bills, Or<g ref="char:EOLhyphen"/>ders, and Tallies, in effect, all the King's revenue passed their hands, and if <hi>Solomon</hi> be in the right, <hi>that the Borrower is a Slave to the Len<g ref="char:EOLhyphen"/>der,</hi> the King and Kingdom became Slaves to these <hi>Bankers,</hi> and the Kingdom gave no small share of their Taxes to them, paying double and treble Intrest, as if they had not been able to raise Money for the publick Service at the times it was requisite.</p>
+            <p>But the number of these <hi>Bankers</hi> increased so fast, and the money at Interest come so much into their hands, that the King and His Farmers, and all Tallies of Anticipation and Orders, could not secure all the mo<g ref="char:EOLhyphen"/>ney they had to lend. Hereupon they sought out according to their several natural wits and capacities, how to dispose of money for more then
+<pb n="6" facs="tcp:50513:4"/> lawful Intrest, either upon Pawns or Bottom, Reason or unreasonable discounts of Intrest for Bills, or upon notorious usurious Contracts, or upon personal Securities from Heirs whose Estates are in expectancy, or by sudden advance of money to Projectors, who drawn into Pro<g ref="char:EOLhyphen"/>jects many Responsible Men to the ruin of their Families; These <hi>Gold<g ref="char:EOLhyphen"/>smiths</hi> however getting 10l. or 15 l. <hi>per Centum,</hi> and sometimes more, only for the present advance of the money, besides the future Intrest, These and a hundred other practices they have used and do still continue in contempt of Law and Justice, whereof they are so conscious to them<g ref="char:EOLhyphen"/>selves, that most of them do once a year (at least) sue out their general Pardon to avoid the penalty of those wholsom Laws made to prevent such Frauds, Oppressions, contempt of Government, and mischeives to the Publick as they are dayly guilty of: Tis also suspected that their original Trade of culling the heavy Money is not deserted by some of them; also how come all clipt and washt money to pass so currant at their Shops, and so little appearance in payments of all the new coyned Mo<g ref="char:EOLhyphen"/>ney since the King's return, so many 100000 ls. of the <hi>Parliaments</hi> Coin, besides <hi>Bullion</hi> imported having been new coyned, and how comes <hi>Guinies</hi> also to be bought and sold by them so much above the Coynage rate, that upon their account only, and by their means, they pass cur<g ref="char:EOLhyphen"/>rant in payments for more then they are really worth from some of their Shops; I am sure some Merchants are supplyed with Gold and Silver <hi>English</hi> Coyn, to transport upon the advantage of the exchange, or making their present Bargains in <hi>France</hi> and elswhere, for importing Prohibited Goods.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Have given you my Remarques upon the Rise and growth of these new kind of <hi>Goldsmiths,</hi> and I take them to have been in their highest Ascendant or State about the time that our Ships were burnt at <hi>Chatham</hi> by the <hi>Dutch:</hi> that cold Storm of the Peoples fears that their money was not safe in the <hi>Bankers</hi> hands blighted them, and since being in their de<g ref="char:EOLhyphen"/>clension, the Famous stop upon the <hi>Exchequer</hi> almost blasted their very root, men being unwilling to trust money in their hands to lend his Ma<g ref="char:EOLhyphen"/>jesty, so long as they hear the deplorable Cryes of the Widdow and the Fatherless, whose money they say at Feasts, they lent the King, and cannot repay them, no not their Intrest to buy them Bread.</p>
+               </body>
+            </floatingText>
+            <pb n="7" facs="tcp:50513:4"/>
+            <p>Now admitting that all the Creditors of the <hi>Bankers</hi> can no more think it safe that their money should be lent to the King, since Tallies, Orders, and the Great Seal it self, are found to be no security, I can<g ref="char:EOLhyphen"/>not imagine how Bread should be got by their trade of borrowing mo<g ref="char:EOLhyphen"/>ney upon lawful Intrest to lend upon unlawful to private persons, though they can silence their consciences and forget Christianity, and neither regard their neighbors welfare, nor the good of the whole Kingdom, but seek by Usurious unlawful Bargains, and oppressive Exactions from the needy and men in streights, and by hook and by crook to make the most of their Cash.</p>
+            <p>I dare take it for granted that the men now of that Trade are not men of greater natural Abilities nor acquired parts; then other Tradesmen of their age and degree, nor are they better instructed then others to im<g ref="char:EOLhyphen"/>ploy greater Stocks in an advantagious Trade; nor have they greater Stocks of their own to hazzard to remote places, from whence most pro<g ref="char:EOLhyphen"/>fit may be hoped for; Neither have these men greater skill in Law then other Citizens, to judg of Securities to be taken for Money, not have they more knowledg of Men to guess at the value of their Bonds, how then should they be able to make more Intrest of money then other Tra<g ref="char:EOLhyphen"/>ders; yet the profit that may satisfy other Traders, cannot be sufficient for them to keep open their Shops; they must have a great dead stock of Cash to answer all Payments, and be always ready occasionally to advance great Summs: their Servants and Shops must be maintained for no use but Payments and Receipts, and deducting dead Stock and Charges, if they do not ta<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> nine <hi>p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cent.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntrest for what they Lend and dispose of, they cannot make one of one, much less subsist. Besides there must be allowance for Charges to defend themselves against In<g ref="char:EOLhyphen"/>formers for their usurious Contracts, and procuring frequent Par<g ref="char:EOLhyphen"/>dons, and for hazard of loss of their Money lent upon unlawful Intrest, every borrower having it in his power to plead their usury against them in lue of their Debts. All these things, and many more being duly con<g ref="char:EOLhyphen"/>sidered, I suppose people will suddenly come to their wits, and begin to examine why a <hi>Goldsmith-banker</hi> should be better Security then ano<g ref="char:EOLhyphen"/>ther man, or fitter to be trusted for ten times more then he is worth: They give only personal Security, and many times their Notes for 500 l. 1000 l. or more, when they owe before they give that Note, twenty times the value of their own Estates, and yet these free Lenders will scarce be satisfied with two or three Mens Bonds for 1000 l. that are known to be worth 5000 l. a Man; doubtless I say, People will think at last tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a
+<pb n="8" facs="tcp:50513:5"/>
+               <hi>Banker</hi> ought to give as good Security for money he borrows as another man, especially since he runs the greatest hazards in his disposing of Money for excessive Gain or intrest.</p>
+            <p>I leave it then to your self <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o judg whether <hi>Banking</hi> be like to con<g ref="char:EOLhyphen"/>tinue half your Son's Apprenticeship, and whether all the Arts that they can teach him can be worth one of the 200 l. you design to give with him; I presume upon your Pardon for my plainness and tediousness; Yet I am prompted to say somthing more in point of Conscience, doubt<g ref="char:EOLhyphen"/>ing whether it be Lawful to exercise any Trade in a constant avowed breach of the Laws of the Kingdom, as all <hi>Bankers</hi> do, these Laws being made for the good of the Society, to which the Scripture commands obedience for Conscience sake, <hi>where they are met contrary to the Laws of God.</hi>
+            </p>
+            <p>Perhaps it is worth the inquiry upon th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> account, whether any ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that hath exercised the Mystery of <hi>Banking,</hi> hath living or dying, gone off the Stage with a clear good Estate, all his Creditors being paid, fully paid. But I judg no Man. <hi>I submit these thoughts and my Self to Your Prudent Censure, and remain,</hi>
+            </p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Humble Servant <hi>J. R.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50513:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
